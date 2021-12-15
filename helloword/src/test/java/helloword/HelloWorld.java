@@ -7,7 +7,6 @@ public class HelloWorld {
 	@Test
 	public void Hello() {
 		
-		
-		System.out.println("eu am varsta");
+		System.out.println("Bunã ziua!");
 	}
 }
